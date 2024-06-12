@@ -320,4 +320,4 @@ ansible-playbook  playbook.yml -vvv
    
 ```
 
-不足：未能在执行过程中提供修复，而是只能检查报错后再对playbook作出修改。
+
